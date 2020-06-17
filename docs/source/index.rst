@@ -8,7 +8,6 @@ Bienvenido a la Documentacion de Aldo Flores creada con Sphinx
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 
 
