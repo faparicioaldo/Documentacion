@@ -31,3 +31,8 @@ Para el envio de GPS de cada vehiculo el sistema monitoreo realiza los pasos sig
 *   VideoController (IMPORTANT)
 
 
+### Principales clases con logica de negocio para envio de alertas y gps
+*   ScheduledTasks
+*   EnviarAlarmaGobiernoServiceImpl
+*   APISistemaVideoVigilanciaServiceImpl
+*   GeneraCadenaPeticionHelperImpl
