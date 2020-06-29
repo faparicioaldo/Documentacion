@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'testSphinx'
+project = 'Base de Conocimiento'
 copyright = '2020, aldo'
 author = 'aldo'
 
