@@ -1,9 +1,17 @@
-Base de Conocimiento Profesional
+Base de Conocimiento Profesional (Markdown)
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+`Mi Index <genindex>`_
+* :ref:`genindex`
+* :ref:`genindex`
+
+`rst_tutorial`_
+
 
 
 documentation master file, created by

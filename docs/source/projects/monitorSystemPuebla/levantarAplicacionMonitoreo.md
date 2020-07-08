@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\CMSServerV6\tomcat\jdk1.8.0_162\bin\java" -jar c:\Users\Administrator\Desktop\SistemaMonitoreo-3.0.war
